@@ -1,5 +1,7 @@
 <h1> Object Detection using YOLOv3 </h1>
 
+![showcase](img.png)
+
 <h2> Overview </h2>
 This project utilizes the YOLOv3 (You Only Look Once) object detection algorithm to detect and identify various objects in real-time video streams. The project is implemented using Python and the OpenCV computer vision library.
 
